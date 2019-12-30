@@ -7,7 +7,7 @@ buildNumber.properties
 .mvn/timing.properties
 
 ## Directory-based project format:
-.idea/
+.idea
 
 # IntelliJ
 /out/
