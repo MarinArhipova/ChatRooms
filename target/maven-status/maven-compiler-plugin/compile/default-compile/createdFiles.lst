@@ -1,7 +1,0 @@
-ru\itis\chat\config\WebSocketConfig.class
-ru\itis\chat\listener\WebSocketEventListener.class
-ru\itis\chat\model\ChatMessage.class
-ru\itis\chat\model\ChatMessage$ChatMessageBuilder.class
-ru\itis\chat\SpringChatApplication.class
-ru\itis\chat\controller\ChatController.class
-ru\itis\chat\model\MessageType.class
