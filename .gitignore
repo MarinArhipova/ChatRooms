@@ -1,0 +1,23 @@
+*.class
+
+### Maven template
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+
+## Directory-based project format:
+.idea
+.target
+
+# IntelliJ
+/out/
+
+# mpeltonen/sbt-idea plugin
+.idea_modules/
+
+# Ignore Git here
+.git
+
+# But not these files...
+!.gitignore
